@@ -1,10 +1,4 @@
-## Technologies Used  
-- **Frontend**: ReactJS, TypeScript, Tailwind CSS  
-- **Backend**: ExpressJS  
-- **Additional Tools**: Vite.js, Git for version control  
 
-## Order Flow  
-![Order Flow](https://github.com/user-attachments/assets/ba368c0f-c934-4be6-89fc-45c1099430a2)  
 
 ## Installation and Setup  
 Follow these steps to run the project locally:  
@@ -16,8 +10,8 @@ Follow these steps to run the project locally:
 ### Steps  
 #### 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/K0l4s/ute-shop.git  
-   cd ute-shop
+   git clone https://github.com/phaminhieu30/WebsiteUTEShop.git
+   cd WebsiteUTEShop
    ```
 #### 2. Front end Setup
    ##### 2.1. Direct to frontend folder
